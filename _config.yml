@@ -1,0 +1,53 @@
+# site settings
+title: Mobina Salavati
+description: Welcome to my portfolio website
+email: mobina.salavati1999@gmail.com
+taglong: online CV
+tagshort: Mobina Salavati
+url: "https://mobinasalavati.github.io/"
+baseurl: ""
+permalink: pretty
+twitter_username: mobina_slvt
+github_username:  mobinasalavati
+linkedin_username: mobina-salavati
+stackoverflow_username: mmmm
+
+# author settings
+author:
+  name: Mobina Salavati
+  email: salavati2557@gmail.com
+photo: /assets/jpg/mobina.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
