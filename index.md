@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I am **Moina Salavati**, I have graduated from **University of Tehran** where I majored in Engineering Science. I have worked on a Data-Driven Control project in my Bachelor’s Thesis. I implement a DC Motor controller using NARX Neural Network, I've also worked on Machine Vision Detection Method for Surface Defects in my internship at ESLAB (Engineering Science Laboratory).
+I am **Mobina Salavati**, I have graduated from **University of Tehran** where I majored in Engineering Science. I have worked on a Data-Driven Control project in my Bachelor’s Thesis. I implement a DC Motor controller using NARX Neural Network, I've also worked on Machine Vision Detection Method for Surface Defects in my internship at ESLAB (Engineering Science Laboratory).
 
 I’m familiar with Deep Learning concepts through the NNDL course and its course projects.
 
