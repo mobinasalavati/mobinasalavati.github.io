@@ -5,9 +5,8 @@ title: Home
 
 # About
 
-I am **Mobina Salavati**, I have graduated from **University of Tehran** where I majored in Engineering Science. I have worked on a Data-Driven Control project in my Bachelor’s Thesis. I implement a DC Motor controller using NARX Neural Network, I've also worked on Machine Vision Detection Method for Surface Defects in my internship at ESLAB (Engineering Science Laboratory).
-
-I’m familiar with Deep Learning concepts through the NNDL course and its course projects.
+I am **Mobina Salavati**, a researcher passionate about Deep Learning, Machine Learning, and Applied AI. I graduated from the **University of Tehran**, majoring in Engineering Science. I have experience developing AI-powered tools and ML/DL models.
+Recently, I joined the Lee Language Lab (L^3), where we are developing AvatarConnect, a 3D avatar-based AI assistant that helps university students manage their academic, personal, and professional lives. It includes various features such as interactive avatars, multilingual communication, and wellness tools like journaling and task management.
 
 
 # Projects
