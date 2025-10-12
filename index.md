@@ -16,9 +16,9 @@ Lee, L., Jeon, J., **Salavati, M.**, Amini, N. “AI-Driven Monitoring of Eyedro
 
 # Research Experience
 
-- ***Lee Language Lab (L³)***: Developing AvatarConnect, a 3D avatar-based AI assistant that supports student wellness and productivity.
-- ***CogAI4Sci***: Analyzed Humphrey Visual Field (HVF) data to identify patient’s visual field issues.
-- ***Undergraduate Research Project***: Built a nonlinear DC motor dynamics using NARX for data-driven control of uncertain
+- ***Lee Language Lab (L³), Ontario Tech University & University of Toronto***: Developing AvatarConnect, a 3D avatar-based AI assistant that supports student wellness and productivity.
+- ***CogAI4Sci, National University of Singapore***: Analyzed Humphrey Visual Field (HVF) data to identify patient’s visual field issues.
+- ***Undergraduate Research Project, University of Tehran***: Built a nonlinear DC motor dynamics using NARX for data-driven control of uncertain
  systems.
 
 # Projects
