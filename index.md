@@ -28,12 +28,12 @@ Recently, I joined the **Lee Language Lab (L³)**, where we are developing Avata
 # Technical Skills
 
 These are some of the key skills I've developed throughout my studies:
-### Languages
+**Languages**
 - Python
 - C/C++
 - Java
 - Matlab
-### AI/ML frameworks
+**Packages**
 - Pytorch
 - Higging Face
 - Keras
