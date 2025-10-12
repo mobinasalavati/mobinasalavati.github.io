@@ -11,44 +11,34 @@ I graduated from the **University of Tehran**, majoring in Engineering Science. 
 
 Recently, I joined the **Lee Language Lab (L³)**, where we are developing AvatarConnect, a 3D avatar-based AI assistant that helps university students manage their academic, personal, and professional lives. It includes various features such as interactive avatars, multilingual communication, and wellness tools like journaling and task management.
 
+# Research Experience
+
+- Lee Language Lab (L³)
+- CogAI4Sci
+- ESLAB
+
 
 # Projects
 
-## *Neural Network & Deep Learning*
-- Implementation of Perceptron, Adaline and Madaline Network
-- Creating a Multilayer Perceptron (MLP) Model to Classify CIFAR-10 dataset images
-- Boston House Price Prediction using MLP Regression
-- Image Segmentation Using Deep Learning
+- *AI-powered assistant (OpenAI and LangChain)*: Built a personal AI assistant for conversational and productivity tasks
+- *Handwriting recongnition*: Image classification and segmentation using TensorFlow/Keras
+- *Time-series forecasting*
+- *Genetic algorithm for file decryption*
 
-## *Artificial Intelligence*
-- Implementation of Informed and Uninformed Search Algorithms
-- Implementation of Minimax Algorithm with Alpha-Beta Pruning
-- Deciphering Encrypted File using Genetic Algorithm
-- Implementation of Naive Bayes Algorithm for Multiclass Classification
-- Model Training, Evaluation and Hyper Parameter Tuning with Scikit-Learn library
-- Handwriting Recognition using Tensorflow and Keras
-
-## *Machine Learning*
-- Predict Future Data Using ARMA and ARIMA models
-- Classification Data with Decision Tree and K-Means Algorithm
-- Dimensionality Reduction and PCA
-
-
-# Skills
+# Technical Skills
 
 These are some of the key skills I've developed throughout my studies:
-
+## Languages
 - Python
-- Numpy
-- Pandas
+- C/C++
+- Java
+- Matlab
+## AI/ML frameworks
 - Pytorch
+- Higging Face
 - Keras
-- Scikit-learn
-- VPython
-- OpenCV
-- Linux
-- FreeRTOS
-
+- TensorFlow
+- LangChain
 
 # Let's get in touch
 
