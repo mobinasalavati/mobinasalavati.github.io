@@ -26,13 +26,14 @@ Recently, I joined the **Lee Language Lab (L³)**, where we are developing Avata
 - ***Genetic algorithm for file decryption***
 
 # Technical Skills
-
 These are some of the key skills I've developed throughout my studies:
+
 **Languages**
 - Python
 - C/C++
 - Java
 - Matlab
+
 **Packages**
 - Pytorch
 - Higging Face
