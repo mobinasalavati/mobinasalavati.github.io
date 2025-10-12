@@ -20,20 +20,20 @@ Recently, I joined the **Lee Language Lab (L³)**, where we are developing Avata
 
 # Projects
 
-- *AI-powered assistant (OpenAI and LangChain)*: Built a personal AI assistant for conversational and productivity tasks
-- *Handwriting recongnition*: Image classification and segmentation using TensorFlow/Keras
-- *Time-series forecasting*
-- *Genetic algorithm for file decryption*
+- ***AI-powered assistant (OpenAI and LangChain)***: Built a personal AI assistant for conversational and productivity tasks
+- ***Handwriting recongnition***: Image classification and segmentation using TensorFlow/Keras
+- ***Time-series forecasting***
+- ***Genetic algorithm for file decryption***
 
 # Technical Skills
 
 These are some of the key skills I've developed throughout my studies:
-## Languages
+### Languages
 - Python
 - C/C++
 - Java
 - Matlab
-## AI/ML frameworks
+### AI/ML frameworks
 - Pytorch
 - Higging Face
 - Keras
